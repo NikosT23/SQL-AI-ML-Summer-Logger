@@ -9,3 +9,4 @@
 * Azure Data Engineer Fundamentals (Microsoft Certification DP-900) : https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification
 
 ## June 25- June 30
+* Notes revisiting and cleanup
