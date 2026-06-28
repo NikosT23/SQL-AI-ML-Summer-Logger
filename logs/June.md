@@ -10,3 +10,4 @@
 
 ## June 25- June 30
 * Notes revisiting and cleanup
+* Basic pipeline setup on VS Code
