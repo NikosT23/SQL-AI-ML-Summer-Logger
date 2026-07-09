@@ -1,6 +1,8 @@
 # July weekly report
 
-##July 1st-July 7th
-*Data Engineering Zoomcamp Module 1
-*Introduction to Docker
-*Data Engineering Zoomcamp Module 3
+## July 1st-July 7th
+
+* Data Engineering Zoomcamp Module 1
+* Introduction to Docker
+* Data Engineering Zoomcamp Module 3
+* Data Engineering Zoomcamp Module 4
