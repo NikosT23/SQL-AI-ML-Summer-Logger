@@ -31,8 +31,7 @@ My core focus is mastering the fundamentals of Artificial Intelligence and Machi
 * Made w/ ML: Serving+Monitoring
 * Project Phase 2
 * CI/CD Pipelines
-
-System Design Primer
+* System Design Primer
 
 
 
